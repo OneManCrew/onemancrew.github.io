@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: OneManCrew Website
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -68,12 +68,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "levidoro@gmail.com"
+  facebook: levi.doron
+  github: OneManCrew/
+#  twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: levidoron
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -87,7 +87,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
 
