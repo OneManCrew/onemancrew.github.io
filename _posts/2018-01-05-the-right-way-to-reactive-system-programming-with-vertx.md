@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The right way to reactive system programming with Vert.x
-subtitle: 
+image: /img/vertx.jpg 
 tags: [Java,Vert.x,Reactive Programming]
 ---
 
