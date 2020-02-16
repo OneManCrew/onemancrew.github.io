@@ -7,9 +7,6 @@ tags: [Java,Vert.x,TFTP]
 ---
 
 # Vert.x TFTP Client
-[ ![Download](https://api.bintray.com/packages/onemancrew/vertx/vertx-tftp-client/images/download.svg?version=1.0) ](https://bintray.com/onemancrew/vertx/vertx-tftp-client/1.0/link)
-
-## TFTP
 Trivial File Transfer Protocol (TFTP) is a simple lockstep File Transfer Protocol which allows a client to get a file from or put a file onto a remote host. One of its primary uses is in the early stages of nodes booting from a local area network. TFTP has been used for this application because it is very simple to implement. 
 TFTP was first standardized in 1981 and the current specification for the protocol can be found in RFC 1350. 
 
@@ -19,7 +16,7 @@ The Following Java project implements the TFTP protocol and builds a TFTP client
 I have used Vert.x to implement this project as asynchronously.
 
 To use this component, add the following dependency to the dependencies section of your build descriptor:
-
+[ ![Download](https://api.bintray.com/packages/onemancrew/vertx/vertx-tftp-client/images/download.svg?version=1.0) ](https://bintray.com/onemancrew/vertx/vertx-tftp-client/1.0/link)
 Maven (in your pom.xml):
 ````
 <dependency>
