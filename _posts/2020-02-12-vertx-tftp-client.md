@@ -16,7 +16,9 @@ The Following Java project implements the TFTP protocol and builds a TFTP client
 I have used Vert.x to implement this project as asynchronously.
 
 To use this component, add the following dependency to the dependencies section of your build descriptor:
+
 [ ![Download](https://api.bintray.com/packages/onemancrew/vertx/vertx-tftp-client/images/download.svg?version=1.0) ](https://bintray.com/onemancrew/vertx/vertx-tftp-client/1.0/link)
+
 Maven (in your pom.xml):
 ````
 <dependency>
