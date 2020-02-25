@@ -23,6 +23,7 @@ navbar-links:
   Blog: "index"
   Projects:
     - Vertx TFTP Client: "https://github.com/OneManCrew/vertx-tftp-client"
+    - WordPress Docker with SSL: "https://github.com/OneManCrew/wordpress_docker_ssl"
   About Me: "me"
   Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
