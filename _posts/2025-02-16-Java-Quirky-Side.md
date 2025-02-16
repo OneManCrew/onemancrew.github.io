@@ -4,7 +4,7 @@ title: Java’s Quirky Side: Unmasking the Mysteries of Strings, Floats, and Nul
 subtitle: Unmasking the Mysteries of Strings, Floats, and Nulls
 image: /img/ns.png
 tags: [Java,Java 23]
----﻿
+---
 
 # Java's Quirky Side: Unmasking the Mysteries of Strings, Floats, and Nulls
 
