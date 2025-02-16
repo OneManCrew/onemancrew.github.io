@@ -2,7 +2,7 @@
 layout: post
 title: Java’s Quirky Side
 subtitle: Unmasking the Mysteries of Strings, Floats, and Nulls.
-image: /img/java17.png
+image: /img/top-java-use-cases.jpg
 tags: [Java,Strings,Floats,Null]
 ---
 
