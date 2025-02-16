@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java’s Quirky Side: Unmasking the Mysteries of Strings, Floats, and Nulls
-subtitle: In this article, we will check what was added and removed in Java 23.
+subtitle: Unmasking the Mysteries of Strings, Floats, and Nulls
 image: /img/ns.png
 tags: [Java,Java 23]
 ---﻿
