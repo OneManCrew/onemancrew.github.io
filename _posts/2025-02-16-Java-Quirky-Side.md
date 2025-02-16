@@ -8,7 +8,7 @@ tags: [Java,Java 23]
 
 # Java's Quirky Side: Unmasking the Mysteries of Strings, Floats, and Nulls
 
-Java, the stalwart of enterprise applications, often hides intriguing puzzles beneath its seemingly straightforward surface. Beyond the familiar terrain of classes and objects lie subtle quirks that can trip up even seasoned developers. In this article, weΓÇÖll embark on a journey to uncover three such mysteries: the chameleon-like nature of Strings, the deceptive dance of floating-point numbers, and the ever-lurking shadow of NullPointerExceptions.
+Java, the stalwart of enterprise applications, often hides intriguing puzzles beneath its seemingly straightforward surface. Beyond the familiar terrain of classes and objects lie subtle quirks that can trip up even seasoned developers. In this article,  we’ll embark on a journey to uncover three such mysteries: the chameleon-like nature of Strings, the deceptive dance of floating-point numbers, and the ever-lurking shadow of NullPointerExceptions.
 
 ## 1. The String Chameleon: Immutability and the String Pool
 
