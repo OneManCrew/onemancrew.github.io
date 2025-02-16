@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Java 17, What's New?
-subtitle: In this article, we will check what was added and removed in Java 17.
+title: Java’s Quirky Side
+subtitle: Unmasking the Mysteries of Strings, Floats, and Nulls.
 image: /img/java17.png
-tags: [Java,Java 17,LTS]
+tags: [Java,Strings,Floats,Null]
 ---
 
 # Java's Quirky Side: Unmasking the Mysteries of Strings, Floats, and Nulls
